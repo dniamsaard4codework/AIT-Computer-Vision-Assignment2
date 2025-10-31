@@ -205,3 +205,18 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Do not upload dataset folder
+data/
+coco128/
+
+# Do not upload model folders
+model_task1/
+model_task2/
+yolo_training/
+
+# model yolo
+yolo11n.pt
+yolov8n.pt
+*.pth
+*.pt
