@@ -1,0 +1,4 @@
+Tracker,Total Frames,Success Count,Failure Count,Success Rate (%),Avg FPS,Min FPS,Max FPS
+KCF,215,215,0,100.00,96.18,56.12,127.99
+CSRT,215,215,0,100.00,52.33,21.96,70.90
+MOSSE,215,215,0,100.00,656.15,277.05,787.07
